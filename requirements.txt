@@ -1,0 +1,18 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+ipykernel
+tqdm
+ipywidgets
+
+# https://sbert.net/ - Used for embedding generation
+sentence-transformers
+# https://pypi.org/project/faiss-cpu/ - Used for vector search
+faiss-cpu
+# https://www.trychroma.com/ - Used for vector search
+chromadb
+
+# OpenAI API for LLMs
+langchain_groq
